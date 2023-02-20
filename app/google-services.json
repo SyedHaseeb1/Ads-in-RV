@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "230530628604",
+    "project_id": "funprimetask-fca9b",
+    "storage_bucket": "funprimetask-fca9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230530628604:android:b979466ce442e47fa11079",
+        "android_client_info": {
+          "package_name": "com.hsb.syedhaseeb_funprime_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230530628604-u5tp6vi4ah0ke6f93jkqdovsldmua7co.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG2KJXXIm-xVwdks8KK6viYOVxFCoNGWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230530628604-u5tp6vi4ah0ke6f93jkqdovsldmua7co.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
